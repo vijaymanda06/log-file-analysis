@@ -16,3 +16,10 @@ This project provides a shell script for analyzing server log files. It extracts
 Clone this repository to your local machine using:
 ```bash
 git clone https://github.com/yourusername/log-file-analysis.git
+
+## Usage
+- **Ensure you have read access to the log file you intend to analyze.
+- **Run the script with:
+```bash
+./log_analysis.sh
+
